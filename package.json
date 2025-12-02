@@ -1,0 +1,23 @@
+{
+  "name": "blog-thumnail-ts",
+  "version": "1.0.0",
+  "description": "A Thumbnail Generator for blogs",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.ts"
+  },
+  "author": "itsabiral",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.5",
+    "express": "^5.1.0",
+    "sharp": "^0.34.5"
+  }
+}
