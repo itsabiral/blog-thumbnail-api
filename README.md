@@ -104,6 +104,11 @@ and more..
 
 If these limitations aren't updated yet, they can be easily modified in the code by changing the corresponding values.
 
+## Example use case
+The file is located inside examples folder.
+
+![Blog Example](https://github.com/itsabiral/blog-thumbnail-api/blob/main/screenshot/ss1.jpg?raw=true)
+
 
 ## License
 
